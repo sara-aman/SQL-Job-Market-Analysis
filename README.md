@@ -1,4 +1,4 @@
-🚀 Machine Learning Job Market Analysis
+#🚀 Machine Learning Job Market Analysis
 
 SQL (PostgreSQL) analysis of data and Machine Learning job postings: which roles pay best, which skills Machine Learning Engineers need, and which skills combine high demand with high salary. Python (pandas, Matplotlib) is used only to visualise the final results.
 
@@ -10,7 +10,7 @@ Completed during self-study, following Luke Barousse's [SQL for Data Analytics](
 
 ## Beyond the course
 
-- **Skill category analysis** using the `type` column of the skills table
+- **Skill category analysis** using the type column of the skills table
 - **Demand levels** (High Demand = 150 or more postings) and a high-salary filter (average above 130,000)
 - **Minimum sample sizes**, so that a few high salaries do not distort the rankings
 - **Python bar chart** of average salary by skill category
@@ -31,6 +31,6 @@ Completed during self-study, following Luke Barousse's [SQL for Data Analytics](
 
 > **Data note:** Salary analyses use only postings with a stated salary, a small share of all postings. Skills and titles with very few postings are excluded, and results based on 10 to 20 postings should be read with caution.
 
-![Average salary by skill category]([C:\Users\Sara\Desktop\Self_Learing\SQL_YouTube\output.png].png)
+![Average salary by skill category](images/salary_by_category.png)
 
 The Python script loads the exported SQL results (CSV) and plots the average salary per skill category for Machine Learning roles.
