@@ -31,6 +31,6 @@ Completed during self-study, following Luke Barousse's [SQL for Data Analytics](
 
 > **Data note:** Salary analyses use only postings with a stated salary, a small share of all postings. Skills and titles with very few postings are excluded, and results based on 10 to 20 postings should be read with caution.
 
-![Average salary by skill category](images/salary_by_category.png)
+![Average salary by skill category](visualization/output.png)
 
 The Python script loads the exported SQL results (CSV) and plots the average salary per skill category for Machine Learning roles.
