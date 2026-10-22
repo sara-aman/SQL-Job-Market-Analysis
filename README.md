@@ -1,4 +1,4 @@
-#🚀 Machine Learning Job Market Analysis
+# 🚀 Machine Learning Job Market Analysis
 
 SQL (PostgreSQL) analysis of data and Machine Learning job postings: which roles pay best, which skills Machine Learning Engineers need, and which skills combine high demand with high salary. Python (pandas, Matplotlib) is used only to visualise the final results.
 
